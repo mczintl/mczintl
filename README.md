@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @mczintl
 - 👀 I’m interested in ...web designing
 - 🌱 I’m currently learning ...coding
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 mczintl/mczintl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

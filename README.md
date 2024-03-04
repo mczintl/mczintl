@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mczintl
 - 👀 I’m interested in ...web designing
-- 🌱 I’m currently learning ...coding
+
 
 
 <!---
